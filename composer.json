@@ -2,6 +2,7 @@
     "name": "vinmarkdev/facebook_yii",
     "description": "Test  Facebook SDK extension for Yii2",
     "type": "library",
+    "keywords": ["yii2","extension","facebook"],
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +10,6 @@
             "email": "markel.mamchur@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
