@@ -1,6 +1,6 @@
 <?php
 
-namespace vinmarkdev\facebook_yii;
+namespace SdkFacebook;
 
 use Yii;
 use yii\base\Component;
