@@ -1,0 +1,22 @@
+{
+    "name": "vinmarkdev/facebook_yii",
+    "description": "Test  Facebook SDK extension for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","facebook"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/vinmarkdev/facebook_yii/issues",
+        "source": "https://github.com/vinmarkdev/facebook_yii"
+    },
+    "authors": [
+        {
+            "name": "Mark Mamchur",
+            "email": "markel.mamchur@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.5",
+        "facebook/graph-sdk": "^5.6"
+    }
+}
